@@ -1,7 +1,4 @@
 # Back-end with Spring Boot
-The following was discovered as part of building this project:
-
-* The original package name 'com.divya.employee-system-api' is invalid and this project uses 'com.divya.employeesystemapi' instead.
 
 ## Getting Started
 
